@@ -13,11 +13,11 @@
 
 #### Процесс выполнения:
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img 1.1.png)
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img1.png)
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img 1.2.png)
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img2.png)
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img 1.3.png)
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img3.png)
 
 
 #### ссылка на .pkt файл:
