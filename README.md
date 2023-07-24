@@ -11,6 +11,18 @@
 
 1. [Disaster recovery и Keepalived](1.md)
 
+#### Процесс выполнения:
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img1.png)
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img2.png)
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img3.png)
+
+#### ссылка на .pkt файл:
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/hsrp_advancedHW.pkt)
+
 2. [Кластеризация и балансировка нагрузки](2.md)
 
 3. [Резервное копирование](3.md)
