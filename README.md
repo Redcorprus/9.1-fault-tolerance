@@ -13,16 +13,17 @@
 
 #### Процесс выполнения:
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img1.png)
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img1.PNG)
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img2.png)
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img2.PNG)
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img3.png)
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img3.PNG)
 
 
-#### ссылка на .pkt файл:
+#### ссылка на [схему](hsrp_advancedHW.pkt)
 
 ![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/hsrp_advancedHW.pkt)
+------
 
 2. [Кластеризация и балансировка нагрузки](2.md)
 
