@@ -11,18 +11,52 @@
 
 1. [Disaster recovery и Keepalived](1.md)
 
+### Задание 1
+
 #### Процесс выполнения:
+
+#### скрин конфигурации первого роутера
 
 ![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img1.PNG)
 
+
+#### скрин конфигурации второго роутера
+
 ![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img2.PNG)
+
+
+#### проверка работы настроек в CPT
 
 ![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img3.PNG)
 
 
 #### ссылка на [схему](hsrp_advancedHW.pkt)
 
-![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/hsrp_advancedHW.pkt)
+
+
+### Задание 2
+
+#### Процесс выполнения:
+
+#### ссылка на [скрипт](nginx.sh)
+
+#### вывод команды ip a на основном сервере
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img4.png)
+
+#### проверка работы keepalived на основном сервере
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img5.png)
+
+#### вывод команды ip a резервном сервере
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img6.png)
+
+#### проверка работы keepalived на резервном сервере
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img7.png)
+
+#### ссылка на [keepalived.conf](keepalived.conf)
 ------
 
 2. [Кластеризация и балансировка нагрузки](2.md)
