@@ -88,5 +88,33 @@
 
 3. [Резервное копирование](3.md)
 
+### Задание 1
+
+#### Процесс выполнения:
+
+#### Составим команду:
+
+rsync -av --delete --exclude '.*' /home/morzin/ /tmp/backup
+
+#### Проверим вывод команды:
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img12.png)
+
+### Задание 2
+
+#### Процесс выполнения:
+
+#### Напишем скрипт:
+
+'''
+#! /bin/sh
+rsync -av --delete --exclude '.*' /home/morzin/ /tmp/backup >> /var/log/crontab.log
+'''
+
+#### Проверим выполнение скрипта по логам Cron:
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img13.png)
+
+
 4. [Отказоустойчивость в облаке](4.md)
 
