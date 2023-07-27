@@ -111,9 +111,13 @@ rsync -av --delete --exclude '.*' /home/morzin/ /tmp/backup
 rsync -av --delete --exclude '.*' /home/morzin/ /tmp/backup >> /var/log/crontab.log
 '''
 
-#### Проверим выполнение скрипта по логам Cron:
+#### Сконфигурируем задачу для Cron
 
 ![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img13.png)
+
+#### Проверим выполнение скрипта по логам Cron:
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img14.png)
 
 
 4. [Отказоустойчивость в облаке](4.md)
