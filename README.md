@@ -61,6 +61,31 @@
 
 2. [Кластеризация и балансировка нагрузки](2.md)
 
+### Задание 1
+
+#### Процесс выполнения:
+
+#### ссылка на [конфиг](haproxy.cfg)
+
+#### проверка работы HAProxy 
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img8.png)
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img9.png)
+
+
+### Задание 2
+
+#### Процесс выполнения:
+
+#### ссылка на [конфиг](haproxy2.cfg)
+
+#### проверка работы HAProxy 
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img10.png)
+
+![alt text](https://github.com/Redcorprus/9.1-fault-tolerance/blob/main/img/img11.png)
+
 3. [Резервное копирование](3.md)
 
 4. [Отказоустойчивость в облаке](4.md)
